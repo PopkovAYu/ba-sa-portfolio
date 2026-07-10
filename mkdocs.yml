@@ -1,0 +1,27 @@
+site_name: Портфолио бизнес/системного аналитика
+site_description: Обезличенные примеры требований, спецификаций, API и диаграмм
+site_author: Александр Попков
+
+# Замени значения на свои
+site_url: https://ayupopkov.github.io/REPOSITORY/
+repo_url: https://github.com/USERNAME/REPOSITORY
+repo_name: ayupopkov/ba-sa-portfolio
+
+theme:
+  name: readthedocs
+  highlightjs: true
+
+nav:
+  - Главная: index.md
+  - Функциональные требования: functional-requirements.md
+  - Системная спецификация: system-specification.md
+  - Ревью и изменения: review-and-changelog.md
+
+markdown_extensions:
+  - tables
+  - fenced_code
+  - toc:
+      permalink: true
+
+plugins:
+  - search
