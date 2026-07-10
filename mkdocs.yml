@@ -24,3 +24,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - plantuml:
+        puml_url: https://www.plantuml.com/plantuml/
