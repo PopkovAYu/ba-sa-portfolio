@@ -30,6 +30,8 @@ PHOTO SETUP:
 
 ---
 
+<a id="profile"></a>
+
 ## Профессиональный профиль
 
 Я бизнес/системный аналитик с опытом работы на стыке бизнеса, разработки, QA и внешних интеграционных подрядчиков.
@@ -78,13 +80,14 @@ PHOTO SETUP:
 10. обработка ошибок;
 11. ревью и повышение готовности документации к разработке.
 
+<a id="artifacts"></a>
+
 ### Основные артефакты
 
 | Артефакт | Что демонстрирует | Открыть |
 |---|---|---|
 | Функциональные требования | Scope, роли, Use Case, ФТ, НФТ, бизнес-правила, Acceptance Criteria | [Открыть](functional-requirements.md) |
 | Системная спецификация | Сущности, модель данных, API, ERP-интеграция, ошибки, диаграммы | [Открыть](system-specification.md) |
-| Ревью и журнал изменений | Поиск пробелов, устранение противоречий, обезличивание, оценка готовности | [Открыть](review-and-changelog.md) |
 
 ### Примеры конкретной работы
 
@@ -100,12 +103,12 @@ PHOTO SETUP:
 - [Retry и идемпотентность](system-specification.md#123-retry)
 - [Диаграмма синхронизации с ERP](system-specification.md#128)
 - [Модель ошибок API](system-specification.md#13-api)
-- [Найденные проблемы исходных документов](review-and-changelog.md#3)
-- [Оценка готовности к разработке](review-and-changelog.md#8)
 
 > Диаграммы встроены непосредственно в системную спецификацию и не вынесены на главную страницу.
 
 ---
+
+<a id="achievements"></a>
 
 ## Ключевые достижения
 
@@ -129,9 +132,11 @@ PHOTO SETUP:
 
 ---
 
+<a id="experience"></a>
+
 ## Опыт работы
 
-### .redev — бизнес-аналитик
+### RedEv — бизнес-аналитик
 
 **Май 2025 — настоящее время**  
 IT-аутсорс / заказная разработка
@@ -171,6 +176,7 @@ IT-аутсорс / заказная разработка
 
 - [функциональные требования](functional-requirements.md);
 - [системная спецификация](system-specification.md);
+- [ERP-интеграция и обработка ошибок](system-specification.md#12-backenderp).
 - [ERP-интеграция](system-specification.md#12-backenderp);
 - [Acceptance Criteria](functional-requirements.md#12-acceptance-criteria-gherkin).
 
@@ -269,7 +275,6 @@ IT-аутсорс / заказная разработка
 - [Функциональные требования](functional-requirements.md#9)
 - [Нефункциональные требования](functional-requirements.md#10)
 - [Acceptance Criteria](functional-requirements.md#12-acceptance-criteria-gherkin)
-- [Ревью требований](review-and-changelog.md#3)
 
 ### Системный анализ
 
@@ -475,10 +480,10 @@ IT-аутсорс / заказная разработка
 
 Рекомендую начать с:
 
-- [профессионального профиля](#профессиональный-профиль);
-- [достижений](#ключевые-достижения);
-- [опыта работы](#опыт-работы);
-- [основных артефактов](#основные-артефакты).
+- [профессионального профиля](#profile);
+- [достижений](#achievements);
+- [опыта работы](#experience);
+- [основных артефактов](#artifacts).
 
 ### BA / SA Lead
 
@@ -487,7 +492,6 @@ IT-аутсорс / заказная разработка
 - [Use Case](functional-requirements.md#uc-sr-001);
 - [Acceptance Criteria](functional-requirements.md#12-acceptance-criteria-gherkin);
 - [системная спецификация](system-specification.md);
-- [ревью артефактов](review-and-changelog.md).
 
 ### Разработчику / Tech Lead
 
