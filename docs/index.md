@@ -535,9 +535,3 @@ IT-аутсорс / заказная разработка
 - сведений, позволяющих однозначно восстановить реальный проект.
 
 Материалы основаны на практическом опыте, но переработаны специально для публичной демонстрации.
-
----
-
-## Disclaimer
-
-This portfolio contains anonymized demonstration artifacts prepared for a Business/System Analyst portfolio. It does not contain confidential information, real customer data, internal API contracts, commercial details, or proprietary business processes.
