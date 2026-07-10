@@ -1,17 +1,7 @@
-<!--
-PHOTO SETUP:
-1. Добавьте фотографию в репозиторий: docs/assets/profile-photo.jpg
-2. Замените блок <div> с текстом «Место для фотографии» на:
-   <img src="assets/profile-photo.jpg"
+<img src="assets/my_photo.jpg"
         alt="Александр Попков"
         width="180"
         style="border-radius: 12px;">
--->
-
-<div style="display: flex; gap: 28px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 28px;">
-  <div style="width: 180px; height: 220px; border: 2px dashed #9aa4b2; border-radius: 12px; display: flex; align-items: center; justify-content: center; text-align: center; color: #667085; background: #f8fafc;">
-    Место для<br>фотографии
-  </div>
 
   <div style="min-width: 280px; flex: 1;">
     <h1 style="margin-top: 0;">Александр Попков</h1>
