@@ -3,8 +3,8 @@ site_description: Обезличенные примеры требований, 
 site_author: Александр Попков
 
 # Замени значения на свои
-site_url: https://ayupopkov.github.io/REPOSITORY/
-repo_url: https://github.com/USERNAME/REPOSITORY
+site_url: https://ayupopkov.github.io/ba-sa-portfolio/
+repo_url: https://github.com/ayupopkov/ba-sa-portfolio
 repo_name: ayupopkov/ba-sa-portfolio
 
 theme:
@@ -15,7 +15,6 @@ nav:
   - Главная: index.md
   - Функциональные требования: functional-requirements.md
   - Системная спецификация: system-specification.md
-  - Ревью и изменения: review-and-changelog.md
 
 markdown_extensions:
   - tables
