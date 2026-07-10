@@ -1,7 +1,10 @@
-<img src="assets/my_photo.jpg"
+<div style="display: flex; gap: 28px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 28px;">
+     <img src="assets/my_photo.jpg"
         alt="Александр Попков"
         width="180"
         style="border-radius: 12px;">
+  </div>
+
 
   <div style="min-width: 280px; flex: 1;">
     <h1 style="margin-top: 0;">Александр Попков</h1>
